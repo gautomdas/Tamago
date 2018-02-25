@@ -1,5 +1,3 @@
-<html>
-<style>
 body {
     background-color: #FFFACD;
 }
@@ -24,17 +22,3 @@ h1.subtitle {
   color: black;
   text-align: center;
 }
-
-
-</style>
-<head>
-    <title="Tamago">
-    <h1 class = "title">TAMAGO</h1>
-</head>
-
-<body>
-  <h1 class = "subtitle">The Most Advanced AI Chatbot Online</h1>
-  <div class = "construct">
-  </div>
-</body>
-</html>
